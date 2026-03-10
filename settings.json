@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Darkspire24/7",
+    "username": "Darkspire24-7",
     "password": "",
     "type": "offline"
   },
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 120,
       "messages": [
         "Darksprie Ki Jai Ho",
         "Darkspire God Clan",
